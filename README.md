@@ -1,3 +1,4 @@
 # SmerchProsto.github.io
-sites
-<a href="vk.com">Сайт Нердс</a>
+sites:
+  Nerds - smerchprosto.github.io/nerds
+  Sedona - smerchprosto.github.io/sedona

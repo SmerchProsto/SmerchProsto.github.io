@@ -1,4 +1,5 @@
 # SmerchProsto.github.io
-sites:<br>
-  Nerds - <a href="smerchprosto.github.io/nerds">smerchprosto.github.io/nerds</a><br>
-  Sedona - <a href="smerchprosto.github.io/sedona">smerchprosto.github.io/sedona</a>
+sites:
+<ul>
+  <li>Nerds - <a href="smerchprosto.github.io/nerds">smerchprosto.github.io/nerds</a></li>
+  <li>Sedona - <a href="smerchprosto.github.io/sedona">smerchprosto.github.io/sedona</a></li>
